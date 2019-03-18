@@ -132,7 +132,7 @@ However, if these files exist they will affect the behavior of the build process
 
 ### Compatibility
 
-This repository is compatible with PHP 5.6 and higher, excluding any alpha or beta versions.
+This repository is compatible with PHP 5.6 and higher, excluding any alpha or beta versions bar.
 
 ### License
 This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
